@@ -1,6 +1,6 @@
 node{
   git url: "https://github.com/tsteph11/JTEast.git",
-  brain: "main",
+  branch: "main",
   credentialsId: "all"
 }
 
