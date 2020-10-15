@@ -4,4 +4,4 @@ node{
   credentialsId: "all"
 }
 
-deploy_to(dev)
+deploy_to()
