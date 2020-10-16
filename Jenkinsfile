@@ -1,1 +1,1 @@
-deploy_to()
+deploy_to(dev)
