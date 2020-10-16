@@ -22,7 +22,6 @@ libraries{
         cred = "all" 
       }
   }
-  github
   kubernetes{
     k8s_credential = "mini"
     k8s_context = "minikube"
