@@ -28,4 +28,5 @@ libraries{
     helm_configuration_repository = "https://github.com/tsteph11/helm.git"
     helm_configuration_repository_credential = "all"
   }
+  github
 }
